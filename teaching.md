@@ -9,7 +9,7 @@ permalink: /teaching/
 <h2>Teaching</h2>
 
 <div class="teaching-item">
-  <div class="teaching-year">2023</div>
+  <div class="teaching-year">2023-Present</div>
   <div class="teaching-content">
     <strong>Professor</strong>, Universidad Nacional de La Plata (UNLP)  
     <br>
