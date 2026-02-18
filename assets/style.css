@@ -100,25 +100,46 @@ a:hover {
 /* RESEARCH PAGE */
 
 .research-container {
-  max-width: 900px;
-  margin: 80px auto;
+  max-width: 850px;
+  margin: 100px auto;
+  padding: 0 20px;
+}
+
+.research-section {
+  margin-bottom: 80px;
+}
+
+.research-section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 8px;
 }
 
 .paper-list {
-  list-style-type: none;
+  list-style: none;
   padding-left: 0;
+  margin: 0;
 }
 
 .paper-list li {
-  margin-bottom: 28px;
+  margin-bottom: 30px;
+  padding-left: 25px;
+  position: relative;
+  line-height: 1.7;
 }
 
-.paper-list em {
-  font-style: italic;
+/* pequeño marcador elegante */
+.paper-list li::before {
+  content: "–";
+  position: absolute;
+  left: 0;
+  color: #888;
 }
 
+/* links más sutiles */
 .paper-list a {
-  margin-left: 10px;
+  margin-left: 8px;
   font-weight: 500;
   text-decoration: none;
   color: #003366;
@@ -127,5 +148,6 @@ a:hover {
 .paper-list a:hover {
   text-decoration: underline;
 }
+
 
 
