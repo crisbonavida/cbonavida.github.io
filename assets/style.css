@@ -96,3 +96,36 @@ a:hover {
   margin-bottom: 20px;
 }
 
+
+/* RESEARCH PAGE */
+
+.research-container {
+  max-width: 900px;
+  margin: 80px auto;
+}
+
+.paper-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.paper-list li {
+  margin-bottom: 28px;
+}
+
+.paper-list em {
+  font-style: italic;
+}
+
+.paper-list a {
+  margin-left: 10px;
+  font-weight: 500;
+  text-decoration: none;
+  color: #003366;
+}
+
+.paper-list a:hover {
+  text-decoration: underline;
+}
+
+
