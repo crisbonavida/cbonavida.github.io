@@ -149,5 +149,46 @@ a:hover {
   text-decoration: underline;
 }
 
+/* TEACHING PAGE */
+
+.teaching-container {
+  max-width: 850px;
+  margin: 100px auto;
+  padding: 0 20px;
+}
+
+.teaching-container h2 {
+  font-size: 1.8rem;
+  margin-bottom: 50px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 8px;
+}
+
+.teaching-item {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.teaching-year {
+  width: 120px;
+  font-weight: 600;
+  color: #555;
+}
+
+.teaching-content {
+  flex: 1;
+  line-height: 1.7;
+}
+
+.teaching-content a {
+  text-decoration: none;
+  color: #003366;
+  font-weight: 500;
+}
+
+.teaching-content a:hover {
+  text-decoration: underline;
+}
+
 
 
