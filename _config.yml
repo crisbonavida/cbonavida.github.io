@@ -1,0 +1,10 @@
+title: Cristian Bonavida
+description: PhD Student in Economics
+baseurl: ""
+url: "https://crisbonavida.github.io"
+
+markdown: kramdown
+theme: minima
+
+plugins:
+  - jekyll-feed
