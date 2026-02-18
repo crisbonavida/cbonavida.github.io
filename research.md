@@ -42,7 +42,7 @@ Revista de Análisis Económico, 37(1).
 <li>
 <strong>Bonavida, C.</strong> and Gasparini, L. (2024).  
 <em>The Role of Skills and Tasks in Gender Gaps in Latin America.</em>  
-<em>Submitted to Latin America Economic Review.</em>  
+<em>[revisions requested, Review of Development Economic].</em>  
 <a href="#" target="_blank">[Draft]</a>
 </li>
 
@@ -69,10 +69,10 @@ CEDLAS Working Paper No. 0264.
 <ul class="paper-list">
 
 <li>
-Berniell, L., and de la Mata, D.  
-<em>Educational Expansion and Intergenerational Mobility in Latin America.</em>  
-In <em>The Elgar Companion to Social Economics</em>, Third Edition. Forthcoming.
-<a href="#" target="_blank">[Details]</a>
+Berniell, L., Bonavida, C. and de la Mata, D. (2025)  
+<em>From parents to children: educational intergenerational mobility trends in Latin America and the Caribbean.</em>  
+In <em>The Elgar Companion to the Economies of Latin America and the Caribbean</em>, Third Edition.
+<a href="https://www.elgaronline.com/edcollchap/book/9781035317202/chapter6.xml" target="_blank">[Chapter]</a>
 </li>
 
 </ul>
