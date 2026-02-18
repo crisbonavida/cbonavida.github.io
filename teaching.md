@@ -11,7 +11,7 @@ permalink: /teaching/
 <div class="teaching-item">
   <div class="teaching-year">2023-Present</div>
   <div class="teaching-content">
-    <strong>Professor</strong>, Universidad Nacional de La Plata (UNLP)  
+    <strong>Instructor</strong>, Universidad Nacional de La Plata (UNLP)  
     <br>
     Computational Instruments (M.S.)  
     <br>
