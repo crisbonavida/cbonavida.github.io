@@ -24,13 +24,12 @@ title: Home
     <p>
     I am also a Research Fellow at the
     <a href="https://www.cedlas.econo.unlp.edu.ar/wp/" target="_blank">
-    Center for Distributive, Labor and Social Studies (CEDLAS).
-    </a>.
+    Center for Distributive, Labor and Social Studies (CEDLAS)
+    </a>
     </p>
 
     <p>
-    I previously worked on labor economics and development policy,
-    combining microdata analysis with applied econometrics.
+    I previously worked as a Research Fellow at CAF in Development Economics for Latin American Countries, and at World Bank nowcasting poverty with Machine Learning methdos. 
     </p>
 
     <h3>Research Interests</h3>
