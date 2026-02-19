@@ -10,7 +10,7 @@ permalink: /research/
 <h2>Journal Articles</h2>
 
 <ul class="paper-list">
-
+  
 <li>
 Blair, P. Q., Castagnino, T., Groshen, E., Debroy, P., Auguste, B., Ahmed, S., and <strong>Bonavida, C.</strong> (2020).  
 <em>Searching for STARs: Work Experience as a Job Market Signal for Workers without Bachelor's Degrees.</em>  
@@ -38,6 +38,12 @@ Revista de Análisis Económico, 37(1).
 <h2>Working Papers</h2>
 
 <ul class="paper-list">
+
+<li>
+<strong>Bonavida, C.</strong> (2026).  
+Marriage as Insurance: Household Responses to Immigration Policy Uncertainty. Working paper. 
+<a href="/papers/marriage.pdf" target="_blank">[PDF]</a>
+</li>
 
 <li>
 <strong>Bonavida, C.</strong> and Gasparini, L. (2024).  
