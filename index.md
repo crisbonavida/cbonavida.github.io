@@ -39,5 +39,11 @@ title: Home
       <li>Household Economics</li>
       <li>Applied Microeconometrics</li>
     </ul>
+
+
+    Please find me at:
+    cristianbonavida[at]gmail[dot]com
+    cbonavid[at]andrew[dot]cmu[dot]edu
+    
   </div>
 </div>
