@@ -40,20 +40,14 @@ title: Home
       <li>Applied Microeconometrics</li>
     </ul>
 
-<hr class="section-divider">
-
-<div class="contact-section">
-  <h3>Contact</h3>
-
-  <p>
-  Please feel free to reach out:
-  </p>
-
-  <p>
-  cristianbonavida[at]gmail[dot]com<br>
-  cbonavid[at]andrew[dot]cmu[dot]edu
-  </p>
-</div>
+    <p>
+    Please feel free to reach out:
+    </p>
+  
+    <p>
+    cristianbonavida[at]gmail[dot]com<br>
+    cbonavid[at]andrew[dot]cmu[dot]edu
+    </p>
 
   </div>
 </div>
