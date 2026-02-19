@@ -42,7 +42,7 @@ Revista de Análisis Económico, 37(1).
 <li>
 <strong>Bonavida, C.</strong> (2026).  
 Marriage as Insurance: Household Responses to Immigration Policy Uncertainty. Working paper. 
-<a href="/papers/marriage2.pdf" target="_blank">[PDF]</a>
+<a href="/papers/marriage2.pdf" target="_blank">[Draft]</a>
 </li>
 
 <li>
