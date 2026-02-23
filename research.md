@@ -10,6 +10,13 @@ permalink: /research/
 <h2>Journal Articles</h2>
 
 <ul class="paper-list">
+
+<li>
+<strong>Bonavida, C.</strong> and Gasparini, L. (2024).  
+<em>The Role of Skills and Tasks in Gender Gaps in Latin America.</em>  
+<em>[Forthcoming Review of Development Economic].</em>  
+<a href="#" target="_blank">[Draft]</a>
+</li>
   
 <li>
 Blair, P. Q., Castagnino, T., Groshen, E., Debroy, P., Auguste, B., Ahmed, S., and <strong>Bonavida, C.</strong> (2020).  
@@ -43,13 +50,6 @@ Revista de Análisis Económico, 37(1).
 <strong>Bonavida, C.</strong> (2026).  
 Marriage as Insurance: Household Responses to Immigration Policy Uncertainty. Working paper. 
 <a href="/papers/marriage2.pdf" target="_blank">[Draft]</a>
-</li>
-
-<li>
-<strong>Bonavida, C.</strong> and Gasparini, L. (2024).  
-<em>The Role of Skills and Tasks in Gender Gaps in Latin America.</em>  
-<em>[revisions requested, Review of Development Economic].</em>  
-<a href="#" target="_blank">[Draft]</a>
 </li>
 
 <li>
