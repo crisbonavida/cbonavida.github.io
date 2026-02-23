@@ -12,10 +12,17 @@ permalink: /research/
 <ul class="paper-list">
 
 <li>
-<strong>Bonavida, C.</strong> and Gasparini, L. (2024).  
+<strong>Bonavida, C.</strong> and Gasparini, L. (2026).  
 <em>The Role of Skills and Tasks in Gender Gaps in Latin America.</em>  
 <em>[Forthcoming Review of Development Economic].</em>  
 <a href="#" target="_blank">[Draft]</a>
+</li>
+
+<li>
+<strong>Bonavida, C.</strong>, Brambilla, I., and Gasparini, L. (2022).  
+<em>Automation and Pandemic: Threats to Employment in Latin America.</em>  
+Revista de Análisis Económico, 37(1).  
+<a href="https://www.scielo.cl/pdf/rae/v37n1/0718-8870-rae-37-01-27.pdf" target="_blank">[Paper]</a>
 </li>
   
 <li>
@@ -32,12 +39,6 @@ Revista Económica, Universidad Nacional de La Plata.
 <a href="https://revistas.unlp.edu.ar/Economica/article/view/10088" target="_blank">[Paper]</a>
 </li>
 
-<li>
-<strong>Bonavida, C.</strong>, Brambilla, I., and Gasparini, L. (2022).  
-<em>Automation and Pandemic: Threats to Employment in Latin America.</em>  
-Revista de Análisis Económico, 37(1).  
-<a href="https://www.scielo.cl/pdf/rae/v37n1/0718-8870-rae-37-01-27.pdf" target="_blank">[Paper]</a>
-</li>
 
 </ul>
 
